@@ -30,6 +30,6 @@
 	<div class="container">
 		<Header></Header>
 		<List></List>
-	</div>	
+	</div>
 </main>
 
